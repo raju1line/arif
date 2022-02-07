@@ -1,0 +1,174 @@
+
+
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  background:#EEEEEE;
+}
+ .logo{
+   font-size:20px;
+   padding-left:15px;
+   font-weight:bold;
+   color:#0B0C11;
+   margin-left:20px;
+ }
+  .manu-item ul li a{
+    color:#0B0C11;
+    font-weight:bold;
+    margin-right:5px;
+    
+  }
+  .number{
+    margin:0px 30px;
+  }
+  
+  .header-img{
+    background:rgba(0,0,0,0.3)url("img/heder.jpg");
+    background-size:cover;
+    width:100%;
+    height:100vh;
+    background-blend-mode:darken;
+    display:flex;
+    background-position:center;
+    background-repeat:no-repeat;
+    justify-content:center;
+    align-items:center;
+  }
+  
+  .header-content{
+    text-align:center;
+  }
+  
+  .header-content p{
+    font-size:13px;
+    line-height:15px;
+    color:#E5E5E5; 
+   
+  }
+  
+  .header-content h1{
+    color:white;
+  }
+  
+  .header-item p{
+    text-align: justify;
+    font-size:12px;
+  }
+  
+
+  .header-item{
+    margin-top:100px;
+    text-align:center;
+ 
+  }
+  
+  .header-item  i{
+    font-size:13px;
+   background-color:#50A5DA;
+   padding:30px;
+   border-radius:100px;
+   color:white;
+  }
+  h5{
+    margin-top:10px;
+    color:#50A5DA;
+  }
+  
+  .mid-section{
+    background:#E5E5E5;
+    margin-top:30px;
+    height:100%;
+  }
+  .laptop-img img{
+    width:350px;
+  }
+  .mid-conten{
+    padding-top:100px;
+  }
+  .cotent p{
+     font-size:13px;
+  }
+  .cotent{
+    margin-top:25px;
+  }
+  .cotent a{
+    text-decoration:none;
+    color:black;
+    background:white;
+    padding:6px 30px;
+    border-radius:5px;
+    text-align:end;
+    
+  }
+  .cotent a:hover{
+    background-color:#50A5DA;
+    color:white;
+  }
+  .mid-img{
+    margin-top:35px;
+    background:white;
+    height:250px;
+   
+  }
+  .mid-img p{
+    font-size:10px;
+  }
+  .mid-img h4{
+    font-weight:bold;
+  }
+  .midmg1{
+    text-align:center;
+    margin-top:10px;
+     overflow:hidden;
+  }
+  .midmg1 img{
+    width:200px;
+    height:100%;
+  }
+ .midmg2{
+    text-align:center;
+    margin-top:10px;
+     overflow:hidden;
+ }
+ .midmg2 img{
+   width:200px;
+   height:100%;
+ }
+ .midmg3{
+   text-align:center;
+   color:white;
+    overflow:hidden;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+ }
+ .midmg3 img{
+   width:240px;
+   height:100%;
+  
+ }
+ .font{
+   position:absolute;
+    margin:0px 0px 170px 0px; 
+    text-align:center;
+    
+ }
+  .elite{
+   position:absolute;
+   margin:0px 0px 140px 0px;
+   text-align:center;
+ } 
+.fotter{
+  margin-top:100px;
+}
+.fotimg img{
+  height:130px;
+}
+.fotimg2 img{
+  height:130px;
+}
